@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unstoppa61e blog</title>
+    <link>https://unstoppa61e.github.io/</link>
+    <description>Recent content on unstoppa61e blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 05 Oct 2021 14:16:07 +0900</lastBuildDate><atom:link href="https://unstoppa61e.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://unstoppa61e.github.io/posts/my-second-post/</link>
+      <pubDate>Tue, 05 Oct 2021 14:16:07 +0900</pubDate>
+      
+      <guid>https://unstoppa61e.github.io/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://unstoppa61e.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 05 Oct 2021 13:04:04 +0900</pubDate>
+      
+      <guid>https://unstoppa61e.github.io/posts/my-first-post/</guid>
+      <description>hoge fuga
+HOGE </description>
+    </item>
+    
+  </channel>
+</rss>
