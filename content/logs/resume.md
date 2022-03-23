@@ -19,21 +19,34 @@ draft: false
 - 3.0.1（2021年）から日常的に利用。オブジェクト指向的な書き方も含めて、問題なくできる (ようになる予定)。
 - Ruby on Railsは6.1.4から利用。
 
+### React (TypeScript)
+
+- 2022年初頭から利用。
+    - 自作サービスである『[ゴロゴロ円周率](https://gorogoropanda.com)』を作成
+
+### Vue.js
+
+- 2021年末から利用。
+    - [ToDo アプリ](https://github.com/unstoppa61e/todo-app-with-vue)を作成
+    - Vue CLI にて [メモアプリ](https://github.com/unstoppa61e/note-taking-app-with-vue-cli) を作成
+    - OSS への [PR](https://github.com/fjordllc/bootcamp/pull/3818)
+
+
 ### C
 
 - 2019年末から1年以上利用。
-    - libc の関数の再実装
-    - printf の簡易版の再実装
-    - レイキャスティングを利用した3Dゲームの作成
-    - bashの簡易版を再実装
+    - [libc の関数の再実装](https://github.com/unstoppa61e/libft)
+    - [printf の簡易版の再実装](https://github.com/unstoppa61e/ft_printf)
+    - [レイキャスティングを利用した3Dゲーム](https://github.com/unstoppa61e/cub3d)の作成
+    - [shell (bash) の簡易版を再実装](https://github.com/unstoppa61e/minishell)
 
 ### nasm
 - 各命令や、各レジスタの働きについて、一通り理解できる
-- libc の関数の再実装
+- [libc の関数の再実装](https://github.com/unstoppa61e/libasm)
 
 ### Python
-- discord.py にて Discord bot を作成
-    - 現在、Heroku にて稼働しており、42 Tokyo とフィヨルドブートキャンプの両サーバーにて利用されている
+- discord.py にて [Discord bot](https://github.com/unstoppa61e/grouping-manager-bot) を作成
+    - Heroku にデプロイしてあり、42 Tokyo とフィヨルドブートキャンプの両サーバーにて利用されている
 
 ## 所持資格
 ### IT
